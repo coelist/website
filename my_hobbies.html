@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>My Hobbies</title>
+<body> 
+</body>
+</style>
+<head>
+<link rel="stylesheet" href="hobbies.css">
+</head>
+<head>
+<body>
+<h1>Hello there! Welcome to my home page, here you will find some interests / hobbies I like. </h1>
+<h2>Music</h2>
+<div class="city">
+<h2>Listening To Music</h2>
+<p>Listening to music is my second favorite hobby!</p>
+</div>
+<p> My favorite thing to do is listen to music. I like to just sit there and let time pass while I sing. 
+I feel like I connect with music on a whole different level. Thats why when I hear these songs I get chills 
+and butterflies. That is why I want to have my girl over and me and her listening to music. It would be the best. I feel like music is super therapeutic. So i like to listen to music when I am stressed out to calm me down!</p>
+<p>
+<img title="this is Juice WRLD!" src="images/gettyimages-1178683444-a5cd1aa14d4bd9224b4796b9bae7acd04ff00d62.jpg" width="230"
+</p>
+<div class="city">
+<h2>Fun Fact</h2>
+<p>Juice WRLD has saved over 500,000 people from suicide, drug overdose and heartbreak!</p>
+</div>
+<h3>Texting </h3>
+<div class="city">
+<h2>Texting</h2>
+<p>Texting is my favorite hobby of them all!</p>
+</div>
+<p> I love to text my girl. Time flies by faster than anything when I'm texting her. Whenever I get a 
+notification from her, my heart pounds a little faster each time. I could talk to her everyday and never 
+get bored, ever. </p>
+<p>
+<img title="My Wife" src="images/IMG_7790.jpg" width= 100px; height=200px;>
+<img title="She's So Hot" src="images/IMG_7796.jpg" width= 100px; height= 200px;>
+<img title="This is My WRLD" src="images/IMG_7161.jpg" height= 200px; width= 100px;>
+<img src="images/IMG_8486.jpg" height= 200px; width= 100px;>
+<img src="images/IMG_8498.jpg" height= 200px; width= 100px;>
+<img src="images/IMG_8580.jpg" height= 200px; width= 100px;>
+<img src="images/IMG_7850.png" height= 200px; width= 88px;>
+<img src="images/IMG_7854.png" height= 200px; width= 100px;>
+<img id="center" src="images/IMG_7210.jpg" height= 200px; width= 420px;>
+</p>
+<p>Things Love About My Girlfriend</p>
+	<ul>
+		<li>Her Hair</li>
+		<li>Her Eyes</li>
+		<li>Her Love</li>
+		<li>She's So Passionate</li>
+		<li>Her Vibes</li>
+		<li>Her Voice</li>
+		<li>Her Baby Talk</li>
+		<li>Her Cuddles</li>
+		<li>Her Strength</li>
+		<li>Her Courage</li>
+		<li>Her Music Taste</li>
+<h4>Photo shop</h4>
+<div class="city">
+<h2>Fun Fact</h2>
+<p>Whenever I text her I always gain feelings for her. Each and every single time</p>
+</div>
+<h2 id="photoshop">Photoshop</h2>
+<p>I love photo shopping. It is a really cool way to edit pictures!</p>
+</div>
+<p>Another thing I love doing is photo shop. I love being able to put pictures on another pictures and different backgrounds. It's really time consuming since its very fun. You have to be very delicate to use photo shop. 
+This is one of my most recent photo shops I've done. I could do better, but I think its pretty good for the first few photo shops.
+<img id="img_mod" src="images/IMG_7794[1].jpg">
+<style>
+<div class="city">
+<h2>Fun Fact</h2>
+<p>Photo shop is a really cool way of editing videos and photos and is really interesting to learn about!</p>
+</div>
+</style>
+<br>
+<h5 class="dotted">Conclusion</h5>
+In conclusion, my favorite hobbies are listening to music, <a href="http://www.repercussionstudios.com/">making music</a>, and being with my girl. These three things are the best 
+things to ever come into my life. I also plan to be working soon, so that I can save for a car and buy me some nice things that I work hard for. 
+<p>My Favorite Song Placements</p>
+<p>My favorite songs from Juice WRLD have went this far up the Top 100 Billboard</p>
+</body>
+<body>
+	<table id="table">
+		<caption>Top 100 Billboard</caption>
+			<tr>
+				<th>Song Title</th>
+				<th>Placement</th>
+			<tr>
+				<th>All Girls Are The Same</th>
+				<th>#7</th>
+			<tr>
+				<th>Life's A Mess</th>
+				<th>#39</th>
+			<tr>
+				<th>GodZilla</th>
+				<th>#19</th>
+</body>
+<style>
+	table, th, td {
+		border: 3px solid blue;
+		background-color:purple;
+		font-size: 22px;
+		}
+	th, td {
+		text-align:center;
+	}
+	th {
+	background-color: pink;
+	}
+	table {
+	border-spacing: 10px;
+	}
+	caption {
+	font-size: 100%;
+	background-color: orange;
+	}
+</style>
+<body>
+<img title="Life's A Mess" src="images/Life's_a_mess.jpg" width=160px; height; 140px;>
+<img title="All Girls Are The Same" src="images/220px-Juice_Wrld_-_All_Girls_Are_the_Same.jpg" width= 160px; height= 160px;
+</body>
+<img title="Godilla feat. Juice WRLD!" src="images/godzilla-Juice_WRLD.jpg" width= 140px; height= 160px;>
+<body>
+<style>
+.city {
+	background-color:green;
+	color: pink;
+	border: 4px solid red;
+	margin: 15px;
+	padding: 20px;
+}
+</style>
+</head>
+<body>
+<div class="city">
+<h2>Texting</h2>
+<p>Texting is my favorite hobby of them all!</p>
+</div>
+<div class="city">
+<h2>Listening To Music</h2>
+<p>Listening to music is my second favorite hobby!</p>
+</div>
+<div class="city">
+<h2>Photo shop</h2>
+<p>Photo shop is my 3rd and final favorite hobby of them all.</p>
+</div>
+</body>
+<button onclick="goBack()">Go Back</button>
+<script>
+function goBack() {
+window.history.back();
+}
+</script>
+</body>
+</html>
